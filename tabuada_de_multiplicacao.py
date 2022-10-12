@@ -1,4 +1,4 @@
-# Informa a tabuada de multiplicação do valor apresentado de 0 à 10000
+# Informa a tabuada de multiplicação do valor apresentado de 0 à 200
 continua = 's'
 while continua == 's':
     n1 = float(input('Informe o número: '))
